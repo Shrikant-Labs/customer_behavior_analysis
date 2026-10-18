@@ -8,12 +8,10 @@ The goal is to analyze the dataset, identify trends and patterns, answer busines
 
 ## Dataset
 
-- **Dataset Name:** `Your Dataset Name`
-- **Source:** `Dataset Source / Kaggle / Company Data`
+- **Dataset Name:** `customer_shopping_behavior`
+- **Source:** `Dataset Source`
 - **Format:** CSV / Excel / Database
-- **Description:** The dataset contains information related to `your business domain`, including key attributes used for analysis.
 
-*Note: Replace this section with details about your actual dataset.*
 
 ## Tools & Technologies
 
@@ -77,12 +75,6 @@ The Power BI dashboard provides an interactive overview of the key metrics and f
 - Category-wise and segment-wise comparisons
 - Interactive filters and slicers
 - Data-driven insights to support decision-making
-
-**Dashboard Preview**
-
-![Power BI Dashboard](images/dashboard.png)
-
-*Replace the image path with your actual dashboard screenshot, or remove this section if no preview is available.*
 
 ## Results & Key Insights
 
